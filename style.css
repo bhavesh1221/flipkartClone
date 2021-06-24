@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.onorder{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50px;
+    color: white;
+    background-color: #2874f0;
+
+}
+.list:hover{
+    cursor: pointer;
+}
+.secinner:hover{
+    cursor: pointer;
+}
+.innerdeal:hover{
+    cursor: pointer;
+}
+.innereee:hover{
+    cursor: pointer;
+}
+.fff:hover{
+    cursor: pointer;
+}
+
+.list{
+    display: block;
+    width: 100px;
+    line-height: 45px;
+    margin: 5px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+
+}
+.lists{
+    display: block;
+    width: 100px;
+    line-height: 45px;
+    margin: 5px;
+    padding-left: 5px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+.second{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    
+}
+.secinner{
+    width: 160px;
+    text-align: center;
+}
+.image img{
+    width: 100%;
+    height: 600px;
+}
+.maindeal{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+}
+.deal{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    /* width: 80%; */
+    
+
+}
+.innerdeal{
+    /* width: 200px; */
+    margin: 20px;
+    padding: 5px;
+}
+.dealright img{
+    height: 380px;
+    width: 300px;
+}
+.eee{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: stretch;
+    width: 100%;
+}
+.eee img{
+    width: 400px;
+    height: 200px;
+    margin: 15px;
+}
+.fff{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.innerfff{
+    margin: 15px;
+    width: 300px;
+}
+.fut{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(34, 30, 30);
+
+}
+.fut{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 100%;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+
+}
+.innerfut {
+    display: block;
+    text-decoration: none;
+    color: white;
+}
+.innersec{
+    display: block;
+    text-decoration: none;
+    color: white;
+} 
+.innerthr{
+    display: block;
+    text-decoration: none;
+    color: white;
+    border: 1px solid black;
+
+}
